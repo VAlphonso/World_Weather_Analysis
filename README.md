@@ -1,1 +1,3 @@
-# World_Weather_Analysis
+# World Weather Analysis 
+
+For this project, I used Python to create a variety of weather images, heat maps and filtering parameters using several different types of Google Maps API Keys.  I included weather descriptions as pop-ups and user input statements to filter data for the user's weather preferences.  The input statements filtered results that are used to identify potential travel destinations and find nearby hotels.  A travel route is created between four cities that fall within the filtered results and are displayed on a map with pop-up windows for each of the chosen cities.  Additionally, the pop-ups includes current weather conditions.  
